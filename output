@@ -1,0 +1,2 @@
+test_base_model_dict.py:15:80: E501 line too long (86 > 79 characters)
+test_base_model.py:14:80: E501 line too long (86 > 79 characters)
